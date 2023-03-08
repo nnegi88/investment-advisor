@@ -1,0 +1,5 @@
+twilio:
+    accountSid: ${TWILIO_ACCOUNT_SID}
+    authToken: ${TWILIO_AUTH_TOKEN}
+    fromNumber: ${TWILIO_FROM_NUMBER}
+    toNumber: ${TWILIO_TO_NUMBER}
